@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 
-/*Grassy background */
+/*Grassy background styling*/
 body {
     background: url(./Assets/green-grass-lawn-139315.jpg) no-repeat center center fixed; 
     background-size: cover;
@@ -18,23 +18,23 @@ li a {
     color: rgb(96, 168, 102);
 }
 
-h1 {
-    margin-left: 20px;
-    font-family: 'Modak', cursive;
-    margin-bottom: 0px;
+#activeNavItem {
+    font-weight: 500;
+    color:darkgreen;
 }
 
-.brand-name {
+#myName {
+    font-family: 'Modak', cursive;
+    font-size: 40px;
     background-color: yellow;
-    min-width: 242px;
-    padding: 10px;
+    padding: 10px 20px;
 }
 
 /*Styling for main content*/
 .main-container {
     background-color: white;
     margin-top: 25px;
-    margin-bottom: 75px;
+    margin-bottom: 100px;
     padding-left: 20px;
 }
 
@@ -65,7 +65,6 @@ p {
     position: fixed;
     bottom: -20px;
     min-height: 75px;
-    clear: both;
 }
 
 
@@ -77,3 +76,5 @@ p {
 #myportfolio {
     width: 100%;
 }
+
+/*Media queries*/
