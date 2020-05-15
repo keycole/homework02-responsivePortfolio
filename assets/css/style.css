@@ -14,6 +14,12 @@ li a {
     color: rgb(96, 168, 102);
 }
 
+a:hover {
+    background-color: yellow;
+    box-shadow: 2px 2px rgb(96, 168, 102);
+    color: rgb(96, 168, 102);
+}
+
 #activeNavItem {
     font-weight: 800;
     color:darkgreen;
@@ -71,13 +77,14 @@ p {
     position: fixed;
     bottom: -20px;
     min-height: 75px;
+    z-index: 2;
 }
 
 
 /*PORTFOLIO STYLING*/
 #myPortfolio {
     width: 100%;
-    margin-bottom: 25px;
+    margin-bottom: 25px
 }
 
 #myPortfolio-heading {
@@ -93,10 +100,16 @@ p {
 }
 
 /*Media queries*/
-@media (max-width: 767.98px) { 
-    nav  {
-        display: flex;
-        justify-content: center;
-        width: max-content;
-    };
+@media (max-width: 600px) { 
+    #myName  {
+        float: left;
+        width: 100%;
+        text-align: center;
+    }
+
+    ul {
+        float: left;
+        width: 100%;
+        text-align: center;
+    }
 }
