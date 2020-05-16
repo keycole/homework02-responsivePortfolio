@@ -1,3 +1,4 @@
+/*UNIVERSAL LG/MD SCREEN SETTINGS*/
 /*Grassy background styling*/
 body {
     background: url(../images/green-grass-lawn-139315.jpg) no-repeat center center fixed; 
@@ -33,10 +34,9 @@ a:hover {
     padding: 10px 20px;
 }
 
-/*Styling for main content*/
 #main-container {
     background-color: white;
-    max-width: 1024px;
+    max-width: 80%;
     margin-top: 25px;
     margin-bottom: 100px;
     padding-left: 20px;
@@ -46,15 +46,21 @@ a:hover {
 
 h2 {
     font-family: 'Modak', cursive;
-    padding-top: 20px;
+    padding-top: 10px;
     padding-left: 20px;
+    padding-bottom: 10px;
 }
 
+#h2-header {
+    padding-bottom: 0px;
+}
+
+/*HOME PAGE STYLING*/
+/*Headshot and bio styling*/
 #content-row2 {
     min-height: 450px;
 }
 
-/*Styling Index Image and Paragraph*/
 #mobile-headshot {
     max-width: 200px;
     margin-right: 10px;
@@ -67,7 +73,22 @@ p {
     font-family: 'Cabin', sans-serif;
 }
 
+/*PORTFOLIO PAGE STYLING*/
+#myPortfolio {
+    width: 100%;
+    margin-bottom: 25px;
+}
 
+#myPortfolio-heading {
+    background-color: yellow;
+    text-align: center;
+    position: absolute;
+    left: 0;
+    justify-items: center;
+    bottom: 75px;
+    width: 98%;
+    z-index:1;
+}
 
 /*Styling for universal sticky footer*/
 .footer {
@@ -80,36 +101,21 @@ p {
     z-index: 2;
 }
 
-
-/*PORTFOLIO STYLING*/
-#myPortfolio {
-    width: 100%;
-    margin-bottom: 25px
-}
-
-#myPortfolio-heading {
-    background-color: yellow;
-    text-align: center;
-    position: absolute;
-    left: 0;
-    justify-items: center;
-    bottom: 75px;
-    width: 100%;
-    z-index:1;
-    margin-right: 15px;
-}
-
-/*Media queries*/
-@media (max-width: 600px) { 
+/*MOBILE SETTING MEDIA QUERY*/
+@media (max-width: 580px) { 
+   
     #myName  {
         float: left;
         width: 100%;
         text-align: center;
     }
+    
+    #main-container {
+        min-width: 100%;
+    }
 
-    ul {
-        float: left;
-        width: 100%;
-        text-align: center;
+    #mobile-alignment {
+        min-width: 100%;
+        justify-content: center;
     }
 }
