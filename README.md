@@ -1,5 +1,7 @@
 # Responsive Bio Page
 
+Link to published page: https://keycole.github.io/responsivePortfolio/
+
 ## Purpose
 Responsive portfolio page to showcase experience and past work.
 Pages:
