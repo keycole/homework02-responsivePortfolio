@@ -2,10 +2,6 @@
 
 Link to published page: https://keycole.github.io/responsivePortfolio/
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 2ed52edd903a98482920530c45b570ca4a555cb1
 ## Purpose
 Responsive portfolio page to showcase experience and past work.
 
