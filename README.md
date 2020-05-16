@@ -2,6 +2,7 @@
 
 ## Purpose
 Responsive portfolio page to showcase experience and past work.
+
 Pages:
 * Bio Page
 * Portfolio Page
