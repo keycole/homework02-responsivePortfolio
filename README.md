@@ -31,35 +31,60 @@ Pages:
 
 ## Home Page Screenshots:
 
+
 **Desktop**
+
+
 ![Desktop Home](./assets/readMeImages/homeDesktop.png)
 
 **Tablet**
+
+
 ![Tablet Home](./assets/readMeImages/homeTablet.png)
 
 **Mobile**
+
+
 ![Mobile Home](./assets/readMeImages/homeMobile.png?width=250)
+
+
+
 
 ## Portfolio Page Screenshots:
 
 **Desktop**
+
+
 ![Desktop Portfolio](./assets/readMeImages/portfolioDesktop.png)
 
 **Tablet**
+
+
 ![Tablet Portfolio](./assets/readMeImages/homeTablet.png)
 
 **Mobile**
+
+
 ![Mobile Portfolio](./assets/readMeImages/homeMobile.png?width=250)
+
+
+
 
 ## Contact Page Screenshots:
 
 **Desktop**
+
+
 ![Desktop Contact](./assets/readMeImages/contactDesktop.png)
 
 **Tablet**
+
+
 ![Tablet Contact](./assets/readMeImages/contactTablet.png)
 
 **Mobile**
+
+
 ![Mobile Contact](./assets/readMeImages/contactMobile.png?width=250)
 
 - - -
