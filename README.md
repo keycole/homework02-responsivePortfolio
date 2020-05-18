@@ -62,12 +62,12 @@ Pages:
 **Tablet**
 
 
-![Tablet Portfolio](./assets/readMeImages/homeTablet.png)
+![Tablet Portfolio](./assets/readMeImages/portfolioTablet.png)
 
 **Mobile**
 
 
-![Mobile Portfolio](./assets/readMeImages/homeMobile.png?width=250)
+![Mobile Portfolio](./assets/readMeImages/portfolioMobile.png?width=250)
 
 
 
