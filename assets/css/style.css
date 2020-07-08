@@ -78,6 +78,14 @@ p {
     width: 100%;
 }
 
+.myLink {
+    color: white;
+}
+
+.myLink:hover {
+    color:yellow;
+}
+
 /*PORTFOLIO PAGE STYLING*/
 #myPortfolio {
     width: 100%;
