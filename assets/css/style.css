@@ -15,7 +15,7 @@ li a {
     color: rgb(96, 168, 102);
 }
 
-a:hover {
+li a:hover {
     background-color: yellow;
     box-shadow: 2px 2px rgb(96, 168, 102);
     color: rgb(96, 168, 102);
@@ -73,6 +73,11 @@ p {
     font-family: 'Cabin', sans-serif;
 }
 
+.contactButtons{
+    justify-content: space-evenly;
+    width: 100%;
+}
+
 /*PORTFOLIO PAGE STYLING*/
 #myPortfolio {
     width: 100%;
@@ -88,6 +93,15 @@ p {
     bottom: 75px;
     width: 98%;
     z-index:1;
+}
+
+div a{
+    text-decoration: none !important;
+    color: black;
+}
+
+div a:hover {
+    color:rgb(96, 168, 102);
 }
 
 /*Styling for universal sticky footer*/

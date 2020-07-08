@@ -31,63 +31,22 @@ Pages:
    * Placeholder portfolio images from https://unsplash.com/
 
 
-## Home Page Screenshots:
+## Site Demo:
 
 
 **Desktop**
 
+![Desktop](assets/readMeImages/desktopBootstrapPortfolio.gif)
 
-![Desktop Home](./assets/readMeImages/homeDesktop.png)
 
 **Tablet**
 
+![Tablet](assets/readMeImages/tabletBootstrapPortfolio.gif)
 
-![Tablet Home](./assets/readMeImages/homeTablet.png)
 
 **Mobile**
 
-
-![Mobile Home](./assets/readMeImages/homeMobile.png?width=250)
-
-
-
-
-## Portfolio Page Screenshots:
-
-**Desktop**
-
-
-![Desktop Portfolio](./assets/readMeImages/portfolioDesktop.png)
-
-**Tablet**
-
-
-![Tablet Portfolio](./assets/readMeImages/portfolioTablet.png)
-
-**Mobile**
-
-
-![Mobile Portfolio](./assets/readMeImages/portfolioMobile.png?width=250)
-
-
-
-
-## Contact Page Screenshots:
-
-**Desktop**
-
-
-![Desktop Contact](./assets/readMeImages/contactDesktop.png)
-
-**Tablet**
-
-
-![Tablet Contact](./assets/readMeImages/contactTablet.png)
-
-**Mobile**
-
-
-![Mobile Contact](./assets/readMeImages/contactMobile.png?width=250)
+![Mobile](assets/readMeImages/mobileBootstrapPortfolio.gif)
 
 - - -
 
